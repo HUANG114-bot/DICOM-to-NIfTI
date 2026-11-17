@@ -1,0 +1,6 @@
+pydicom>=3.0,<4
+dicom2nifti>=2.5,<3
+nibabel>=5.2,<6
+numpy>=1.26,<3
+scipy>=1.11,<2
+pyinstaller>=6,<7
